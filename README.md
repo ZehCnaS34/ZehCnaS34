@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZehCnaS34
-- 👀 I’m interested in distributed system.
+- 👀 I’m interested in distributed systems.
 - 🌱 I’m currently learning raft.
 - 💞️ I’m looking to collaborate on clojure(script) projects.
 - 📫 How to reach me [unknown]
