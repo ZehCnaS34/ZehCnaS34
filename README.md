@@ -2,11 +2,11 @@
 - 👀 I’m interested in distributed systems.
 - 🌱 I’m currently learning raft.
 - 💞️ I’m looking to collaborate on clojure(script) projects.
-- 📫 How to reach me [unknown]
+- 📫 How to reach me <a rel="me" href="https://fosstodon.org/@zehcnas34">@zehcnas34</a>
 
 <!---
 ZehCnaS34/ZehCnaS34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a rel="me" href="https://fosstodon.org/@zehcnas34">@zehcnas34@fosstodon.org</a>
+
